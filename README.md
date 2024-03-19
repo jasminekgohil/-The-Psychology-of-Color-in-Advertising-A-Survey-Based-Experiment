@@ -17,6 +17,6 @@ The study relied on self-reported data, which can be subjective.
 The controlled environment may not reflect real-world ad exposure.
 The experiment only considered color without examining product type or overall ad design.
 
-**Conclusion: **
+**Conclusion:**
 While color may play a role in advertising effectiveness, this study suggests the effect is subtle.
 
